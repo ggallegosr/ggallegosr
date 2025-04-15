@@ -18,12 +18,8 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
-### Projects In Progress
-- 📊 ML classification with unbalanced data and EDA  
-- 🌐 Web app for personalized nutrition plans ([LiveV](https://github.com/ggallegosr/Ingenieria-de-Software-I---LiveV))
-
 ### 📫 Let's Connect!
-- ✉️ [csandovalc.dev@gmail.com](mailto:csandovalc.dev@gmail.com)  
+- ✉️ [gabygallegosrubio@gmail.com](mailto:gabygallegosrubio@gmail.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/gabriela-gallegos-rubio-46a668186/)
 
 ---
