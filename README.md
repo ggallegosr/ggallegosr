@@ -20,13 +20,12 @@
 
 
 ### 📫 Let's Connect!
-- ✉️ [gabygallegosrubio@gmail.com](mailto:gabygallegosrubio@gmail.com)  
+- ✉️ [ggallegos@unal.edu.co](mailto:ggallegos@unal.edu.co)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/gabriela-gallegos-rubio-46a668186/)
 
 ---
 
 ### ✨ GitHub Stats
 <div>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ggallegosr" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ggallegosr&langs_count=8&layout=compact" height="180px"/>
 </div>
